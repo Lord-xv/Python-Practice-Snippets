@@ -1,4 +1,4 @@
-#2000 and 2400 are leap years, while 1800, 1900, 2100, 2200, 2300 and 2500 
+#2000 and 2400 are leap years, while 1800, 1900, 2100, 2200, 2300 and 2500 are not
 
 def is_leap(year):
     leap = False
